@@ -20,7 +20,7 @@ Branch: rev1.0 contains
 
 Notes:
 
-	Spent some time making work the Tap Gesture recognizer.
+	Added Tap Gesture recognizer.
 
 
 
